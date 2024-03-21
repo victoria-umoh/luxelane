@@ -74,7 +74,7 @@ export class Notification extends Component {
                     </Card>
                 </Col>
                 <Col className='p-1' md={6} lg={6} sm={12} xs={12}>
-                    <Card  onClick={this.handleShow} className="notification-card">
+                    <Card onClick={this.handleShow} className="notification-card">
                         <Card.Body>
                             <h6>Lorem Ipsum is simply dummy text of the printing and typesetting</h6>
                             <p className='py-1 px-0 text-primary m-0'>
@@ -84,7 +84,7 @@ export class Notification extends Component {
                     </Card>
                 </Col>
             </Row>
-        </Container>
+      </Container>
 
             <Modal show={this.state.show} onHide={this.handleClose}>
                 <Modal.Header closeButton>

@@ -1,8 +1,78 @@
 import React, { Component } from 'react'
-import { Container, Row, Col, Button } from 'react-bootstrap'
-
+import { Container, Row, Col, Button, Form} from 'react-bootstrap'
+import validation from '../../validation/validation';
+import AppURL from '../../api/AppURL';
+import axios from 'axios'
 
 export class Contact extends Component {
+    constructor(){
+        super();
+        
+        this.state={
+            name: "",
+            email: "",
+            message: ""
+        }
+    }
+
+    nameOnChange = (event)=>{
+        let name = event.target.value;
+        // alert(name);
+        this.setState({name:name});
+    }
+    emailOnChange = (event)=>{
+        let email = event.target.value;
+        // alert(email);
+        this.setState({email:email});
+    }
+    messageOnChange = (event)=>{
+        let message = event.target.value;
+        // alert(message);
+        this.setState({message:message});
+    }
+   
+    onFormSubmit = (event)=>{
+        let name = this.state.name;
+        let email = this.state.email;
+        let message = this.state.message;
+        let sendBtn = document.getElementById('sendBtn');
+        let contactForm = document.getElementById('contactForm');
+
+        if (message.length==0) {
+            alert("Enter your message");
+        }else if(name.length==0){
+            alert("Enter your name");
+        }else if(email.length==0){
+            alert("Enter your email");
+        }else if(!(validation.NameRegx).test(name)){
+            alert("invalid Name");
+        }else{
+
+            
+            let MyFormData = new FormData();
+            MyFormData.append("name",name);
+            MyFormData.append("email",email);
+            MyFormData.append("message",message);
+            
+                axios.post(AppURL.PostContact,MyFormData)
+                .then(function (response){
+                        if (response.status===200 && response.data===1) {
+                            alert("Message sent successfully");
+                            sendBtn.innerHTML = "Send";
+                            contactForm.reset();
+
+                        } else {
+                            alert("unable to send message");
+                            sendBtn.innerHTML = "Send";
+                        }
+                    }).catch(function (error){
+                        alert(error);
+                        sendBtn.innerHTML = "Send";
+                    })
+        }
+         
+        event.preventDefault();
+    }
   render() {
     return (
         <>
@@ -12,13 +82,13 @@ export class Contact extends Component {
 
                     <Row className='text-center'>
                         <Col className='d-flex justify-content-center' md={6} lg={6} sm={12} xs={12}>
-                            <form action="" className='onboardForm'>
+                            <form onSubmit={this.onFormSubmit} className='onboardForm' id="contactForm">
                                 <h4 className='section-title-login'>CONTACT US</h4>
                                 <h6 className='section-sub-title'> Please Contact Us </h6>
-                                <input type="text" className='form-control m-2' placeholder='Enter Mobile Number' />
-                                <input type="email" className='form-control m-2' placeholder='Enter Your Email' />
-                                <input type="text" className='form-control m-2' placeholder='Enter Your Message' />
-                                <Button className="btn btn-block m-2 site-btn-login"> Submit </Button>
+                                <input onChange={this.nameOnChange} type="text" className='form-control m-2' placeholder='Enter Mobile Name' />
+                                <input onChange={this.emailOnChange} type="email" className='form-control m-2' placeholder='Enter Your Email' />
+                                <Form.Control onChange={this.messageOnChange} as="textarea" className='form-control m-2' rows={3} placeholder="Message" />
+                                <Button id="sendBtn" type="submit" className="btn btn-block m-2 site-btn-login"> Submit </Button>
                             </form>
                         </Col>
 
@@ -31,7 +101,6 @@ export class Contact extends Component {
                         allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </Col>
                     </Row>
-
                 </Col>
             </Row>
         </Container>

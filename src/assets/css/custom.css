@@ -15,6 +15,7 @@
 @import "partials.css";
 @import "productDetails.css";
 @import "notification.css";
+@import "cartlist.css";
 
 body{
     background-color: antiquewhite;
