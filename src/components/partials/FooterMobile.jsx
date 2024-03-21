@@ -4,6 +4,14 @@ import Apple from '../../assets/images/appleplay.png'
 import Google from '../../assets/images/googleplay.png'
 
 export class FooterMobile extends Component {
+
+  constructor() {
+    super();
+    this.state = {
+      currentYear: new Date().getFullYear()
+    };
+  }
+
   render() {
     return (
       <>
@@ -29,9 +37,13 @@ export class FooterMobile extends Component {
             </Row>
           </Container>
 
-          <Container fluid={true} className='text-center m-0 pt-3 pb-1 bg-dark'>
+          <Container fluid={true} className='text-center text-light m-0 pt-3 pb-1 bg-dark'>
             <Row>
-              <h6 className='text-white'> @Copyright 2021 by </h6>
+            <h6 className="">
+                <strong>Copyright &copy; {this.state.currentYear} | All rights reserved</strong>
+                {/* <script>document.write(new Date().getFullYear());</script>
+                <script>document.querySelector('.footer-text').innerHTML += new Date().getFullYear();</script> */}            
+              </h6>
             </Row>
           </Container>
         </div>

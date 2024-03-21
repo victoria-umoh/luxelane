@@ -22,7 +22,7 @@ export class HomePage extends Component {
 
   // Define a method named GetVisitorDetails within a class or a functional component
   GetVisitorDetails =()=>{
-     axios.get(AppURL.VisitorDetails).then().catch()    // Use axios to make a GET request to the VisitorDetails URL from the AppURL class
+     axios.get(AppURL.VisitorDetails).then().catch()    // Used axios to make a GET request to the VisitorDetails URL from the AppURL class
   }
   
   render() {
