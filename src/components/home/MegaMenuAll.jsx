@@ -41,9 +41,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -51,9 +51,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -61,9 +61,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -71,9 +71,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -81,9 +81,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -91,9 +91,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -101,9 +101,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -111,9 +111,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -121,9 +121,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionAll'>
@@ -131,9 +131,9 @@ export class MegaMenuAll extends Component {
                 </button>
                 <div className='panelAll'>
                     <ul>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemAll'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
 

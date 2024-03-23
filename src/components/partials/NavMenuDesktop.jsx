@@ -28,7 +28,7 @@ export class NavMenuDesktop extends Component{
   // Function to toggle the side navigation and content overlay state
   SideNavtoggle = ()=>{
     let SideNavState = this.state.SideNavState;
-    let ContentOverState = this.state.ContentOverState;
+    // let ContentOverState = this.state.ContentOverState; 
       if(SideNavState === "sideNavOpen"){
         this.setState({SideNavState:"sideNavClose", ContentOverState:"ContentOverlayClose"})
       }else{
@@ -46,8 +46,8 @@ export class NavMenuDesktop extends Component{
                 <Col lg={4} md={4} sm={12} xs={12}>
                   <img onClick={this.MenuBarClickHandler} src={Menu} alt="" className='bar-img' />
 
-                  <Link to="/"><img className='nav-logo' src={Logo} alt=""  /></Link>
-                  
+                  <Link to="/"><img className='nav-logo' src={Logo} alt="Brand Logo"  /></Link> &nbsp;
+                  <span>LUXE-LANE</span>
                 </Col>
 
                 {/* col 2 */}
@@ -71,7 +71,7 @@ export class NavMenuDesktop extends Component{
                       <sup><span className='badge text-white bg-danger'> 5 </span></sup>
                     </i>
                   </Link>
-                    <a className='btn'><i className="fa h4 fa-mobile-alt"></i></a>
+                    <button className='btn'><i className="fa h4 fa-mobile-alt"></i></button>
                     <Link to="/login" className='h4 btn'>LOGIN</Link>
                     <Link to="/cart" className='cart-btn'><i className="fa fa-shopping-cart"></i> 3 items </Link>
                 </Col>

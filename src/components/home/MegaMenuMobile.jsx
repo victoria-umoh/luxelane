@@ -40,9 +40,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -50,9 +50,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -60,9 +60,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -70,9 +70,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -80,9 +80,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -90,9 +90,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -100,9 +100,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -110,9 +110,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -120,9 +120,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -130,9 +130,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -140,9 +140,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -150,9 +150,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -160,9 +160,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -170,9 +170,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
                 <button className='accordionMobile'>
@@ -180,9 +180,9 @@ export class MegaMenuMobile extends Component {
                 </button>
                 <div className='panelMobile'>
                     <ul>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 1</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 2</a></li>
-                        <li><a href="#" className='accordionItemMobile'>Men's T-Shirt 3</a></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 1</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 2</button></li>
+                        <li><button  className='accordionItem'>Men's T-Shirt 3</button></li>
                     </ul>
                 </div>
           </div>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Container, Col, Row, Card } from 'react-bootstrap'
+import { Container, Row, Card } from 'react-bootstrap'
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";

@@ -24,15 +24,15 @@ export class FooterMobile extends Component {
                 <h5 className='footer-menu-title'> OFFICE ADDRESS </h5>
                 <p>125 Joy street Mowe Sheerwood <br></br> Email: suppport@luxe-lane.com </p>
                 <h5 className='footer-menu-title'> SOCIAL LINK </h5>
-                <a href=""><i className="fab m-1 h4 fa-facebook"></i></a>
-                <a href=""><i className="fab m-1 h4 fa-instagram"></i></a>
-                <a href=""><i className="fab m-1 h4 fa-twitter"></i></a>
+                <a href="https://facebook.com"><i className="fab m-1 h4 fa-facebook"></i></a>
+                <a href="https://instagram.com"><i className="fab m-1 h4 fa-instagram"></i></a>
+                <a href="https://twitter.com"><i className="fab m-1 h4 fa-twitter"></i></a>
               </Col>
 
               <Col lg={3} md={3} sm={6} xs={12} className='p-2'>
                 <h5 className='footer-menu-title'> DOWNLOAD APPS </h5>
-                <a href=""><img src={Google} alt="" style={{width:"200px"}} /></a><br></br>
-                <a href=""><img src={Apple} alt="" className='mt-2' style={{width:"200px"}} /></a>
+                <a href="https://google.com"><img src={Google} alt="" style={{width:"200px"}} /></a><br></br>
+                <a href="https://apple.com"><img src={Apple} alt="" className='mt-2' style={{width:"200px"}} /></a>
               </Col>
             </Row>
           </Container>

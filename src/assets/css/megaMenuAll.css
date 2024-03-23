@@ -79,3 +79,8 @@
 .accordionItemAll:hover{
     text-decoration: none;
 }
+
+.panelAll ul li{
+    text-decoration: none;
+    list-style: none;
+}

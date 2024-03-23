@@ -73,3 +73,7 @@
 .accordionItemMobile:hover{
     text-decoration: none;
 }
+.panelMobile ul li{
+    text-decoration: none;
+    list-style: none;
+}

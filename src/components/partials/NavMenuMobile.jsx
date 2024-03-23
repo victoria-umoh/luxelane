@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {Container, Row, Col, Button} from 'react-bootstrap'
+import {Container, Row, Col} from 'react-bootstrap'
 import Logo from '../../assets/images/cart64.png'
 import { Link } from 'react-router-dom'
 import MegaMenuMobile from '../home/MegaMenuMobile'
@@ -28,7 +28,7 @@ export class NavMenuMobile extends Component {
   // Function to toggle the side navigation and content overlay state
   SideNavtoggle = ()=>{
     let SideNavState = this.state.SideNavState;
-    let ContentOverState = this.state.ContentOverState;
+    // let ContentOverState = this.state.ContentOverState;
     
       if(SideNavState === "sideNavOpen"){
         this.setState({SideNavState:"sideNavClose", ContentOverState:"ContentOverlayClose"})
@@ -46,8 +46,8 @@ export class NavMenuMobile extends Component {
                 <Col lg={4} md={4} sm={12} xs={12}>
                   {/* <Button onClick={this.MenuBarClickHandler} className='btn'><i className="fa fa-bars"></i></Button> */}
                   <img onClick={this.MenuBarClickHandler} src={Menu} alt="" className='bar-img' />
-                  <Link to="/"><img className='nav-logo' src={Logo} alt="" /></Link> &nbsp; &nbsp;
-
+                  <Link to="/"><img className='nav-logo' src={Logo} alt="Brand Logo" /></Link> &nbsp;
+                  <span>LUXE-LANE</span>  &nbsp; &nbsp;
                   <Link to="/cart" className='cart-btn'><i className="fa fa-shopping-cart"></i> 3 items </Link>
 
                 </Col>

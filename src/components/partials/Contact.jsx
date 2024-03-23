@@ -38,11 +38,11 @@ export class Contact extends Component {
         let sendBtn = document.getElementById('sendBtn');
         let contactForm = document.getElementById('contactForm');
 
-        if (message.length==0) {
+        if (message.length===0) {
             alert("Enter your message");
-        }else if(name.length==0){
+        }else if(name.length===0){
             alert("Enter your name");
-        }else if(email.length==0){
+        }else if(email.length===0){
             alert("Enter your email");
         }else if(!(validation.NameRegx).test(name)){
             alert("invalid Name");
@@ -95,10 +95,11 @@ export class Contact extends Component {
                         <Col className='p-0 m-0 Desktop' md={6} lg={6} sm={6} xs={6}>
                             <br></br><br></br>
                         <p className='section-title-contact'>125 Joy street Mowe Sheerwood </p>
-                        <iframe 
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96712.53415798995!2d-74.16095541406249!3d40.75615866755062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2589a018531e3%3A0xb9df1f7387a94119!2sCentral%20Park!5e0!3m2!1sen!2sng!4v1704317861143!5m2!1sen!2sng" 
-                        width="550" height="450" styles="border:0;" 
-                        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96712.53415798995!2d-74.16095541406249!3d40.75615866755062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2589a018531e3%3A0xb9df1f7387a94119!2sCentral%20Park!5e0!3m2!1sen!2sng!4v1704317861143!5m2!1sen!2sng"
+                            width="550" height="450" style={{border: 0}} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade">
+                        </iframe>
+
+
                         </Col>
                     </Row>
                 </Col>

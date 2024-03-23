@@ -73,3 +73,8 @@
 .accordionItem:hover{
     text-decoration: none;
 }
+
+.panel ul li{
+    text-decoration: none;
+    list-style: none;
+}
