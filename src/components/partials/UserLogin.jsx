@@ -19,14 +19,23 @@ export class UserLogin extends Component {
                         <Col className='d-flex justify-content-center' md={6} lg={6} sm={12} xs={12}>
                             <form action="" className='onboardForm'>
                                 <h4 className='section-title-login'> USER SIGN-IN </h4>
+<<<<<<< HEAD
                                 <h6 className='section-sub-title'> Please Enter Your Email</h6>
                                 <input type="text" className='form-control' placeholder='Enter Your Email' />
+=======
+                                <h6 className='section-sub-title'> Please Enter Your Mobile Number </h6>
+                                <input type="text" className='form-control' placeholder='Enter Mobile Number' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                 <Button className="btn btn-block m-2 site-btn-login"> Next </Button>
                             </form>
                         </Col>
 
                         <Col className='p-0 m-0 Desktop' md={6} lg={6} sm={6} xs={6}>
+<<<<<<< HEAD
                             <img className='onboardBanner' src={Login} alt="user login" />
+=======
+                            <img className='onboardBanner' src={Login} alt="" />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                         </Col>
                     </Row>
 

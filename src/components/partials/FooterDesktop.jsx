@@ -45,8 +45,13 @@ export class FooterDesktop extends Component {
 
               <Col lg={3} md={3} sm={6} xs={12} className='p-2'>
                 <h5 className='footer-menu-title'> DOWNLOAD APPS </h5>
+<<<<<<< HEAD
                 <a href="https://google.com"><img src={Google} alt="google" style={{width:"200px"}} /></a><br></br>
                 <a href="https://apple.com"><img src={Apple} alt="apple" className='mt-2' style={{width:"200px"}} /></a><br></br>
+=======
+                <a href="https://google.com"><img src={Google} alt="" style={{width:"200px"}} /></a><br></br>
+                <a href="https://apple.com"><img src={Apple} alt="" className='mt-2' style={{width:"200px"}} /></a><br></br>
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                   Change Your Language <br></br>
                   <div className="" id="google_translate_element"></div>
               </Col>

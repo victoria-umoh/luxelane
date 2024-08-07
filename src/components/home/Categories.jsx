@@ -19,7 +19,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/power-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Generator</h5>
                                 </Card.Body>
                             </Card>
@@ -28,7 +32,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/supermarket-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Groceries</h5>
                                 </Card.Body>
                             </Card>
@@ -37,7 +45,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-1-category-pages/fashion/300x400/300x400-fashion-deals.jpg" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Fashion</h5>
                                 </Card.Body>
                             </Card>
@@ -46,7 +58,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/electronics-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Electronics</h5>
                                 </Card.Body>
                             </Card>
@@ -60,7 +76,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/fitness-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Fitness </h5>
                                 </Card.Body>
                             </Card>
@@ -69,7 +89,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/appliances-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Appliances</h5>
                                 </Card.Body>
                             </Card>
@@ -78,7 +102,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/phone-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Phone</h5>
                                 </Card.Body>
                             </Card>
@@ -87,7 +115,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/supermarket-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Beauty</h5>
                                 </Card.Body>
                             </Card>
@@ -104,7 +136,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/power-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Generator</h5>
                                 </Card.Body>
                             </Card>
@@ -113,7 +149,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/supermarket-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Groceries</h5>
                                 </Card.Body>
                             </Card>
@@ -122,7 +162,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-1-category-pages/fashion/300x400/300x400-fashion-deals.jpg" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Fashion</h5>
                                 </Card.Body>
                             </Card>
@@ -131,7 +175,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/electronics-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Electronics</h5>
                                 </Card.Body>
                             </Card>
@@ -145,7 +193,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/fitness-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Fitness </h5>
                                 </Card.Body>
                             </Card>
@@ -154,7 +206,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/appliances-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Appliances</h5>
                                 </Card.Body>
                             </Card>
@@ -163,7 +219,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/phone-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Phone</h5>
                                 </Card.Body>
                             </Card>
@@ -172,7 +232,11 @@ export class Categories extends Component {
                             <Card className='h-100 w-100 text-center'>
                                 <Card.Body>
                                     <img src="https://ng.jumia.is/cms/0-5-brand-festival/2023/Consumer-deals/300x400/supermarket-deals_300x400.png" 
+<<<<<<< HEAD
                                     alt="product" className='center' />
+=======
+                                    alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     <h5 className='category-name'>Beauty</h5>
                                 </Card.Body>
                             </Card>

@@ -77,7 +77,11 @@ export class NewArrival extends Component {
                             <Card className='image-box card'>
                                 <img 
                                 src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/2184812/1.jpg?4682" 
+<<<<<<< HEAD
                                 alt="product" className='center' />
+=======
+                                alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                 <Card.Body>
                                     <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                                     <p className='product-price-on-card'>₦ 61,800</p>
@@ -88,7 +92,11 @@ export class NewArrival extends Component {
                         <Card className='image-box card'>
                             <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/4761412/1.jpg?4199" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                             <Card.Body>
                                 <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                                 <p className='product-price-on-card'>₦ 61,800</p>
@@ -99,7 +107,11 @@ export class NewArrival extends Component {
                         <Card className='image-box card'>
                             <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/5079471/1.jpg?7475" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                             <Card.Body>
                                 <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                                 <p className='product-price-on-card'>₦ 61,800</p>
@@ -110,7 +122,11 @@ export class NewArrival extends Component {
                         <Card className='image-box card'>
                             <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/729753/1.jpg?9622" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                             <Card.Body>
                                 <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                                 <p className='product-price-on-card'>₦ 61,800</p>
@@ -121,7 +137,11 @@ export class NewArrival extends Component {
                         <Card className='image-box card'>
                             <img 
                             src="https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/L/A/217159_1701542512.jpg" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                             <Card.Body>
                                 <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                                 <p className='product-price-on-card'>₦ 61,800</p>
@@ -132,7 +152,11 @@ export class NewArrival extends Component {
                         <Card className='image-box card'>
                             <img 
                             src="https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/O/P/137865_1653482610.jpg" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                             <Card.Body>
                                 <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                                 <p className='product-price-on-card'>₦ 61,800</p>

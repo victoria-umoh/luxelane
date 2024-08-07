@@ -85,7 +85,11 @@ export class Contact extends Component {
                             <form onSubmit={this.onFormSubmit} className='onboardForm' id="contactForm">
                                 <h4 className='section-title-login'>CONTACT US</h4>
                                 <h6 className='section-sub-title'> Please Contact Us </h6>
+<<<<<<< HEAD
                                 <input onChange={this.nameOnChange} type="text" className='form-control m-2' placeholder='Enter Your Name' />
+=======
+                                <input onChange={this.nameOnChange} type="text" className='form-control m-2' placeholder='Enter Mobile Name' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                 <input onChange={this.emailOnChange} type="email" className='form-control m-2' placeholder='Enter Your Email' />
                                 <Form.Control onChange={this.messageOnChange} as="textarea" className='form-control m-2' rows={3} placeholder="Message" />
                                 <Button id="sendBtn" type="submit" className="btn btn-block m-2 site-btn-login"> Submit </Button>

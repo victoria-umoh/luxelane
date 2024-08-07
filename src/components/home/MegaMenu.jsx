@@ -37,7 +37,11 @@ class MegaMenu extends Component {
           <div className='accordionMenuDivInside'>
                 {/* Your buttons and panels */}
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -47,7 +51,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -57,7 +65,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -67,7 +79,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -77,7 +93,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -87,7 +107,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -97,7 +121,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -107,7 +135,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -117,7 +149,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -127,7 +163,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -137,7 +177,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -147,7 +191,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -157,7 +205,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>
@@ -167,7 +219,11 @@ class MegaMenu extends Component {
                     </ul>
                 </div>
                 <button className='accordion'>
+<<<<<<< HEAD
                     <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
+=======
+                    <img className='accordionMenuIcon' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                 </button>
                 <div className='panel'>
                     <ul>

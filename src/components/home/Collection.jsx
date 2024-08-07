@@ -16,7 +16,11 @@ export class Collection extends Component {
                     <Card className='image-box card'>
                         <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/095307/1.jpg?9004" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                         <Card.Body>
                             <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                             <p className='product-price-on-card'>₦ 61,800</p>
@@ -27,7 +31,11 @@ export class Collection extends Component {
                     <Card className='image-box card'>
                         <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/849377/1.jpg?9774" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                         <Card.Body>
                             <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                             <p className='product-price-on-card'>₦ 61,800</p>
@@ -38,7 +46,11 @@ export class Collection extends Component {
                     <Card className='image-box card'>
                         <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/0042391/1.jpg?2661" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                         <Card.Body>
                             <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                             <p className='product-price-on-card'>₦ 61,800</p>
@@ -49,7 +61,11 @@ export class Collection extends Component {
                     <Card className='image-box card'>
                         <img 
                             src="https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/0133871/1.jpg?9678" 
+<<<<<<< HEAD
                             alt="product" className='center' />
+=======
+                            alt="" className='center' />
+>>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                         <Card.Body>
                             <p className='product-name-on-card'>XIAOMI Redmi A2+ 6.52" 2GB RAM/32GB ROM</p>
                             <p className='product-price-on-card'>₦ 61,800</p>
