@@ -36,7 +36,7 @@ export class MegaMenuMobile extends Component {
           <div className='accordionMenuDivInsideMobile'>
                 {/* Your buttons and panels */}
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -46,7 +46,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -56,7 +56,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -66,7 +66,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -76,7 +76,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -86,7 +86,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -96,7 +96,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -106,7 +106,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -116,7 +116,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -126,7 +126,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -136,7 +136,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -146,7 +146,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -156,7 +156,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -166,7 +166,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>
@@ -176,7 +176,7 @@ export class MegaMenuMobile extends Component {
                     </ul>
                 </div>
                 <button className='accordionMobile'>
-                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconMobile' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelMobile'>
                     <ul>

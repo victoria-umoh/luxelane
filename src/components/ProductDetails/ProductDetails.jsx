@@ -15,20 +15,20 @@ export class ProductDetails extends Component {
                 <Col className="shadow-sm bg-white pb-3 mt-4" md={12} lg={12} sm={12} xs={12}>
                     <Row>
                         <Col className='p-3' md={6} lg={6} sm={12} xs={12}>
-                            <img className='w-100' src={Product1} alt="" />
+                            <img className='w-100' src={Product1} alt="product" />
                             <Container className='my-3'>
                                 <Row>
                                     <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product2} alt="" />
+                                        <img className='w-100' src={Product2} alt="product" />
                                     </Col>
                                     <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product3} alt="" />
+                                        <img className='w-100' src={Product3} alt="product" />
                                     </Col>
                                     <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product4} alt="" />
+                                        <img className='w-100' src={Product4} alt="product" />
                                     </Col>
                                     <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product5} alt="" />
+                                        <img className='w-100' src={Product5} alt="product" />
                                     </Col>
 
                                     <Col className='mt-5'>

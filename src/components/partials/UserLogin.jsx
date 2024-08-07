@@ -26,7 +26,7 @@ export class UserLogin extends Component {
                         </Col>
 
                         <Col className='p-0 m-0 Desktop' md={6} lg={6} sm={6} xs={6}>
-                            <img className='onboardBanner' src={Login} alt="" />
+                            <img className='onboardBanner' src={Login} alt="product" />
                         </Col>
                     </Row>
 

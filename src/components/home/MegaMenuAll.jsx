@@ -37,7 +37,7 @@ export class MegaMenuAll extends Component {
           <div className='accordionMenuDivInsideAll'>
                 {/* Your buttons and panels */}
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -47,7 +47,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -57,7 +57,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -67,7 +67,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -77,7 +77,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -87,7 +87,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -97,7 +97,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -107,7 +107,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -117,7 +117,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
@@ -127,7 +127,7 @@ export class MegaMenuAll extends Component {
                     </ul>
                 </div>
                 <button className='accordionAll'>
-                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="" /> &nbsp; Men's Clothing
+                    <img className='accordionMenuIconAll' src="https://cdn-icons-png.flaticon.com/128/739/739249.png" alt="product" /> &nbsp; Men's Clothing
                 </button>
                 <div className='panelAll'>
                     <ul>
