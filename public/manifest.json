@@ -1,25 +1,48 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "LuxeLane Store",
+  "name": "LuxeLane Store",
+  "description": "Ecommerce System",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FFD670",
+  "background_color": "#ffffff",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "cart16.png",
+      "sizes": "16x16",
+      "type": "image/png"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "cart24.png",
+      "sizes": "24x24",
+      "type": "image/png"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "cart32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "cart64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "cart128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "cart256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "cart512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
