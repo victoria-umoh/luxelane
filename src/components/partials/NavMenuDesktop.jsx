@@ -44,7 +44,7 @@ export class NavMenuDesktop extends Component{
               <Row>
                 {/* col 1 */}
                 <Col lg={4} md={4} sm={12} xs={12}>
-                  <img onClick={this.MenuBarClickHandler} src={Menu} alt="" className='bar-img' />
+                  <img onClick={this.MenuBarClickHandler} src={Menu} alt="product" className='bar-img' />
 
                   <Link to="/"><img className='nav-logo' src={Logo} alt="Brand Logo"  /></Link> &nbsp;
                   <span>LUXE-LANE</span>

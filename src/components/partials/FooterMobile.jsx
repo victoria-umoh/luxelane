@@ -31,8 +31,8 @@ export class FooterMobile extends Component {
 
               <Col lg={3} md={3} sm={6} xs={12} className='p-2'>
                 <h5 className='footer-menu-title'> DOWNLOAD APPS </h5>
-                <a href="https://google.com"><img src={Google} alt="" style={{width:"200px"}} /></a><br></br>
-                <a href="https://apple.com"><img src={Apple} alt="" className='mt-2' style={{width:"200px"}} /></a>
+                <a href="https://google.com"><img src={Google} alt="google" style={{width:"200px"}} /></a><br></br>
+                <a href="https://apple.com"><img src={Apple} alt="apple" className='mt-2' style={{width:"200px"}} /></a>
               </Col>
             </Row>
           </Container>

@@ -63,7 +63,7 @@ export class Cart extends Component {
                             <Card.Body>
                                 <Row>
                                     <Col md={3} lg={3} sm={6} xs={6}>
-                                        <img className='cart-product-img' src={Product1} alt="cart-product" />
+                                        <img className='cart-product-img' src={Product1} alt="product" />
                                     </Col>
 
                                     <Col md={6} lg={6} sm={6} xs={6}>
@@ -86,7 +86,7 @@ export class Cart extends Component {
                             <Card.Body>
                                 <Row>
                                     <Col md={3} lg={3} sm={6} xs={6}>
-                                        <img className='cart-product-img' src={Product1} alt="cart-product" />
+                                        <img className='cart-product-img' src={Product1} alt="product" />
                                     </Col>
 
                                     <Col md={6} lg={6} sm={6} xs={6}>

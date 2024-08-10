@@ -15,7 +15,6 @@ export class ProductDetails extends Component {
                 <Col className="shadow-sm bg-white pb-3 mt-4" md={12} lg={12} sm={12} xs={12}>
                     <Row>
                         <Col className='p-3' md={6} lg={6} sm={12} xs={12}>
-<<<<<<< HEAD
                             <img className='w-100' src={Product1} alt="product" />
                             <Container className='my-3'>
                                 <Row>
@@ -30,22 +29,6 @@ export class ProductDetails extends Component {
                                     </Col>
                                     <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
                                         <img className='w-100' src={Product5} alt="product" />
-=======
-                            <img className='w-100' src={Product1} alt="" />
-                            <Container className='my-3'>
-                                <Row>
-                                    <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product2} alt="" />
-                                    </Col>
-                                    <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product3} alt="" />
-                                    </Col>
-                                    <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product4} alt="" />
-                                    </Col>
-                                    <Col className='p-0 m-0' md={3} lg={3} sm={3} xs={3}>
-                                        <img className='w-100' src={Product5} alt="" />
->>>>>>> 7c5ce7c40f2cf8dfb3c43bf0ad0e268d2bb21db7
                                     </Col>
 
                                     <Col className='mt-5'>
