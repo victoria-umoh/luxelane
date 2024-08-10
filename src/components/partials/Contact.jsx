@@ -82,14 +82,14 @@ export class Contact extends Component {
 
                     <Row className='text-center'>
                         <Col className='d-flex justify-content-center' md={6} lg={6} sm={12} xs={12}>
-                            <form onSubmit={this.onFormSubmit} className='onboardForm' id="contactForm">
+                            <Form onSubmit={this.onFormSubmit} className='onboardForm' id="contactForm">
                                 <h4 className='section-title-login'>CONTACT US</h4>
                                 <h6 className='section-sub-title'> Please Contact Us </h6>
                                 <input onChange={this.nameOnChange} type="text" className='form-control m-2' placeholder='Enter Mobile Name' />
                                 <input onChange={this.emailOnChange} type="email" className='form-control m-2' placeholder='Enter Your Email' />
                                 <Form.Control onChange={this.messageOnChange} as="textarea" className='form-control m-2' rows={3} placeholder="Message" />
                                 <Button id="sendBtn" type="submit" className="btn btn-block m-2 site-btn-login"> Submit </Button>
-                            </form>
+                            </Form>
                         </Col>
 
                         <Col className='p-0 m-0 Desktop' md={6} lg={6} sm={6} xs={6}>

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import HomePage from '../pages/HomePage';
 import UserLoginPage from '../pages/UserLoginPage';
+import RegisterPage from '../pages/RegisterPage';
 import ContactPage from '../pages/ContactPage';
 import PurchasePage from '../pages/PurchasePage';
 import PrivacyPage from '../pages/PrivacyPage';
@@ -17,15 +18,16 @@ export class AppRoute extends Component {
       <BrowserRouter>
         <Routes>
             <Route exact path="/" element={<HomePage/>} />
-            <Route exact path="/login" element={<UserLoginPage />} />
-            <Route exact path="/purchase" element={<PurchasePage />} />
-            <Route exact path="/contact" element={<ContactPage />} />
-            <Route exact path="/privacy" element={<PrivacyPage />} />
-            <Route exact path="/refund" element={<RefundPage />} />
-            <Route exact path="/productdetails" element={<ProductDetailsPage />} />
-            <Route exact path="/notification" element={<NotificationPage />} />
-            <Route exact path="/favourite" element={<FavouritePage />} />
-            <Route exact path="/cart" element={<CartPage />} />
+            <Route path="/login" element={<UserLoginPage />} />
+            <Route path="/register" element={<RegisterPage />} />
+            <Route path="/purchase" element={<PurchasePage />} />
+            <Route path="/contact" element={<ContactPage />} />
+            <Route path="/privacy" element={<PrivacyPage />} />
+            <Route path="/refund" element={<RefundPage />} />
+            <Route path="/productdetails" element={<ProductDetailsPage />} />
+            <Route path="/notification" element={<NotificationPage />} />
+            <Route path="/favourite" element={<FavouritePage />} />
+            <Route path="/cart" element={<CartPage />} />
 
         </Routes>
       </BrowserRouter>

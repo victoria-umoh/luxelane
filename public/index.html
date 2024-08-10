@@ -20,7 +20,8 @@
 
     <title> Luxe-Lane </title>
     <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-        <!-- script added for push notification -->
+
+    <!-- script added for push notification -->
     <script>
       window.OneSignalDeferred = window.OneSignalDeferred || [];
       OneSignalDeferred.push(function(OneSignal) {
@@ -29,11 +30,12 @@
         });
       });
     </script>
-        <!-- script added for push notification -->
+    <!-- script added for push notification -->
 
-        <!-- Google Translate API Script -->
+    <!-- Google Translate API Script -->
     <script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>
-
+    <!-- Google Translate API Script -->
+    
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -44,12 +46,21 @@
         function googleTranslateElementInit(){
           var config = {
             pageLanguage: 'en',
-            includedLanguages: 'en,fr,',
+            includedLanguages: 'en,fr,es,de,it,ja,ko,ru,pt,ar,hi,vi',
             layout:google.translate.TranslateElement.InlineLayout.SIMPLE
           };
           var langOptionsID = 'google_translate_element';
           new google.translate.TranslateElement(config, langOptionsID)
         }
+
+        // Load Google Translate API
+        // (function() {
+        //   var gtConstEvalStartTime = new Date();
+        //   var script = document.createElement('script');
+        //   script.type = 'text/javascript';
+        //   script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+        //   document.body.appendChild(script);
+        // })();
       </script>
 
 
